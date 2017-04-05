@@ -1,0 +1,14 @@
+{
+    "name": "mdl",
+    "version": "1.0.0",
+    "description": "mdl redux application",
+    "main": "./main.js",
+    "author": {
+        "name": "Ganjah Navarro",
+        "email": "ganjahnavarro@gmail.com",
+        "url": "https://github.com/ganjahnavarro"
+    },
+      "license": "MIT",
+      "dependencies": {
+    }
+}
